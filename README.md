@@ -1,6 +1,6 @@
 # Тестовое задание для Mediacube
 
-## Приложение можно посмотреть здесь - [Сайт приложения на gh pages](https://guzzlerx.github.io/mediacube/)<br/>
+### Приложение можно посмотреть здесь - [Сайт приложения на gh pages](https://guzzlerx.github.io/mediacube/)<br/>
 
 ## Инструкция по разворачиванию проекта:
 `git clone https://github.com/Guzzlerx/mediacube`  
